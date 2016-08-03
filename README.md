@@ -1,21 +1,26 @@
 Governments web design patterns.
 
-### Australia
+#### Australia
 
 - [DTO Design Principles](https://www.dto.gov.au/standard/design-principles/)
 
-### Italy
+#### Italy
 
 - [Italian Government Design Guidelines](https://github.com/italia-it/designer.italia.it)
 
-### United States
+
+#### Switzerland
+
+- [Swiss Confederation Web Guidelines](https://swiss.github.io/styleguide/en/)
+
+#### United States
 
 - [U.S. Web Design Standards](https://standards.usa.gov/)
 
-### United Kingdom
+#### United Kingdom
 
 - [GOV.UK Design Patterns](https://www.gov.uk/service-manual/user-centred-design/resources/patterns)
 
 ## Contributing
 
-Feel free to fork 🍴 and add add more links.
+Please feel free to fork 🍴 and add more links.
